@@ -1,0 +1,15 @@
+
+/* Footer part start */
+footer{
+    background-color:rgb(78, 129, 223);
+    height:auto;
+    width:auto;
+    text-align: center;
+    color:white;
+}
+
+.footer-container{
+    margin-top: 30px;
+    padding: 5px;
+}
+
