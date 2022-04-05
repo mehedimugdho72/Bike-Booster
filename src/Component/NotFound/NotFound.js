@@ -8,8 +8,9 @@ const NotFound = () => {
         <div className='not-found-text'>
             <FontAwesomeIcon className='not-found-icon' icon={faFaceFrown}></FontAwesomeIcon>
             <h1 >404</h1>
+            <h1 >Oops!</h1>
             <h3 >Page Not found</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.<br></br> Explicabo dolores alias optio? Rerum optio aut, minus quo voluptate repellat numquam.</p>
+            <p></p>
         </div>
     );
 };
