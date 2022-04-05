@@ -33,7 +33,7 @@ const Home = () => {
                     )
                 }
 
-                <Link className='see-all-btn' to='/review'>See All Reviews</Link>
+                <Link className='see-all-btn' to='/review'>See More Reviews</Link>
             </div>
         </div>
     );
